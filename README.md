@@ -31,7 +31,7 @@ Note - for optimal accuracy, make sure you use run with a flat lr for some time 
 Medium article (summary and FastAI example usage):
 https://medium.com/@lessw/meet-diffgrad-new-deep-learning-optimizer-that-solves-adams-overshoot-issue-ec63e28e01b2
 
-Official diffGrad paper:  https://arxiv.org/abs/1909.11015v2
+Official diffGrad paper:  https://arxiv.org/abs/1909.11015v3
 
 12/31 - AdaMod and DiffMod added.  Initial SLS files added (but more work needed).
 
